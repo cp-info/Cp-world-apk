@@ -17,7 +17,7 @@ Note: Some features may not be working for devices using Android versions less t
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 ----------------------------------------
 
-> Contact us:mehedi0213@gmail.com 
+> Contact us: mehedi0213@gmail.com 
 
 ----------------------------------------
 
