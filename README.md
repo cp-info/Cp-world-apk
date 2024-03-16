@@ -21,4 +21,5 @@ Note: Some features may not be working for devices using Android versions less t
 
 ----------------------------------------
 
-> © Cyber protection
+<div align="center">
+© Cyber protection
