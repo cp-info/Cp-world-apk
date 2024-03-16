@@ -16,6 +16,9 @@ Note: Some features may not be working for devices using Android versions less t
      height="80">](https://github.com/cp-info/Cp-training-app/releases/download/Cp/Cp.training.apk)
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 ----------------------------------------
+
+> Contact us:mehedi0213@gmail.com 
+
 ----------------------------------------
 
 > © Cyber protection
