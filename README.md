@@ -3,18 +3,12 @@
 # Cp world apk
 Cp world this is specially designed for selected team members of Cyber ​​protection team only.
 
-# Coming soon..... 
-
-> This course is priced at 999 Taka
-
-  
-There will be a total of 25 videos related to Facebook spamming.
 ### Device Requirements
 > Recommended Android version is at least 6. Minimum Android version it supports well is 5.
 
 Note: Some features may not be working for devices using Android versions less than 6. We will try to fix those in the next updates, keep patience till then.
 
-### Device Requirements
+### Download Now
 
 <!-- Click the download button to download latest release app. -->
 [<img src="https://freepngimg.com/thumb/download_now_button/25800-4-download-now-button-blue.png"
